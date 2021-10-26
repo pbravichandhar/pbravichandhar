@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🤔 &nbsp; Highly skilled software development professional bringing more than 4.5+ years of experience in software design, development, and integration.
+- 🤔 &nbsp; Highly skilled software development professional bringing more years of experience in software design, development, and integration.
 - 🤔 &nbsp; Exercised knowledge of IT concepts, strategies, and methodologies. Utilized strong background in architecture and technical standards, design and development tools, and understanding of shared software concepts.
 - 🤔 &nbsp; Able to perform optimization and increase the performance of REST API services in Node Js, Firebase 
 - 🤔 &nbsp; Expertise in Software Architecture, Scrum & Agile areas with a willingness to learn and master RESTful & APIs.
