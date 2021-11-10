@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-## I'm Ravi Chandhar P.B.
+## I'm Ravi Chandhar P.B. ![](https://komarev.com/ghpvc/?username=pbravichandhar&color=brightgreen&label=PROFILE+VIEWS)
 
 ### 💻 &nbsp;About Me 
 
@@ -72,4 +72,3 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ravichandharpb"><img src="https://img.shields.io/badge/-Ravi%20Chandhar%20P.B-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ravifabulous471@gmail.com"><img src="https://img.shields.io/badge/-ravifabulous471@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-- ![](https://komarev.com/ghpvc/?username=pbravichandhar&color=brightgreen&label=PROFILE+VIEWS)
